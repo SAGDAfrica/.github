@@ -1,5 +1,5 @@
 # SAGDA - Synthetic Agriculture Data in Africa
-SAGDA is an open-source initiative focused on creating and providing synthetic agricultural datasets for Africa’s agricultural sector. Our mission is to support research, innovation, and sustainable practices through data generation, augmentation, and validation, helping drive informed decisions for Africa’s agricultural future.
+SAGDA (Synthetic Agriculture Data for Africa) is an open-source initiative designed to address the data scarcity challenges in African agriculture. By leveraging advanced data science techniques, SAGDA provides tools for generating, augmenting, and validating synthetic agricultural datasets, covering key variables such as climate, soil properties, crop yields, and fertilizer use. These synthetic datasets enable researchers, policymakers, and agribusinesses to simulate realistic agricultural conditions, supporting data-driven decisions and innovation in the field.
 
 ## Key Features  
 The SAGDA Python library provides:
